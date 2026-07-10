@@ -24,7 +24,8 @@ Sieć została podzielona na odizolowane podsieci, zmapowane do odpowiednich int
 Host **Proxmox VE** działa na poniższej konfiguracji sprzętowej:
 *   **CPU**: Intel Core i3-7100 @ 3.90GHz (2 rdzenie)
 *   **RAM**: ~24 GB (23.36 GiB)
-*   **Storage (Root)**: ~40 GB (38.64 GiB)
+*   **Storage (Root)**: 40 GB 
+*   **Storage (additional)**: 500 GB
 *   **OS/Kernel**: Proxmox VE (Linux 7.0.0-3-pve)
 
 ### Security & Firewall Rules (DMZ)
